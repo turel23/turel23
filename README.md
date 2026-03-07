@@ -1,4 +1,12 @@
-## Hi there 👋
+My Mains:
+- Physics
+- Aviation
+- ML/AI
+Student, student pilot, my work in physics extends to general relativity. I'd like to gain more experience with artifical intelligence mainly, as one of my newer projects is to build an AI from fine-tuning existing models.
+
+# Contact:
+Email v1modeler@gmail.com
+
 
 <!--
 **turel23/turel23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
